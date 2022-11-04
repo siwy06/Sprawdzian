@@ -1,0 +1,7 @@
+mkdir
+cd 
+git init
+touch.txt
+git status
+git add.
+git commit -m "Poczatek projektu"
